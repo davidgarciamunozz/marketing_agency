@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9095c73f.css",
+    "main.js": "/static/js/main.d61fcdeb.js",
+    "static/media/boomslag-black.png": "/static/media/boomslag-black.27e2b30710dda10e3cd2.png",
+    "static/media/02.svg": "/static/media/02.07d52831f67c7c91b56ff6b430769553.svg",
+    "static/media/03.svg": "/static/media/03.f4678a08cacdbc5d44dc910f1ef4f259.svg",
+    "static/media/01.svg": "/static/media/01.dc92f63fd1c44d58bcb51305ece15fa2.svg",
+    "index.html": "/index.html",
+    "main.9095c73f.css.map": "/static/css/main.9095c73f.css.map",
+    "main.d61fcdeb.js.map": "/static/js/main.d61fcdeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9095c73f.css",
+    "static/js/main.d61fcdeb.js"
+  ]
+}
