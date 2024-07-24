@@ -2,7 +2,6 @@ import { connect } from "react-redux";
 import {Popover, Transition} from '@headlessui/react';
 import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import { NavLink, Link } from "react-router-dom";
-import logoImg from "../../assets/img/boomslag-black.png";
 import Menu from "./menu.js";
 import CloseMenu from "./closeMenu.js";
 import { useState, Fragment } from "react";
@@ -99,7 +98,7 @@ function Navbar (){
                  <div className="-ml-4 -mt-2 lg:hidden flex flex-wrap items-center justify-between sm:flex-nowrap  md:px-14  px-2">
                          <Link to='/' className="ml-4 mt-2">
                              <img 
-                             src={logoImg}
+                             src='https://appdosisboom.s3.us-east-2.amazonaws.com/boomslag-black.png'
                              width={120}
                              height={100}
                              className=""/>

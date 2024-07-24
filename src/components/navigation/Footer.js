@@ -1,5 +1,4 @@
 import { connect } from "react-redux";
-import logoImg from "../../assets/img/boomslag-black.png";
 const navigation = {
     solutions: [
       { name: 'Marketing', href: '#' },
