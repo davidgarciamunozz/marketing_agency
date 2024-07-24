@@ -73,7 +73,7 @@ function Navbar (){
                  <div className="-ml-4 -mt-2 hidden lg:flex flex-wrap items-center justify-between sm:flex-nowrap md:px-14 px-2">
                          <Link to='/' className="ml-4 mt-2">
                              <img 
-                             src={logoImg}
+                             src='https://appdosisboom.s3.us-east-2.amazonaws.com/boomslag-black.png'
                              width={120}
                              height={100}
                              className=""/>
