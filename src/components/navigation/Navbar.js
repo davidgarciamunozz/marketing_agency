@@ -88,7 +88,7 @@ function Navbar (){
                            to="/contact"
                         className="ml-12 relative inline-flex items-center rounded-md border border-transparent bg-orange-button px-5 py-1.5 text-base font-bold text-white shadow-sm transition duration-300 ease-in-out hover:bg-black focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                            >
-                          Hire us !
+                          Hire us
                           <div className="loader"></div>
                          </Link>
                         </div>
