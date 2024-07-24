@@ -13,7 +13,7 @@ function Header () {
                   Software Development Services
                 </h1>
                 <p className="mt-6 text-xl leading-8 text-gray-900 ">
-                  We love to shake established thought-patterns and create what has never been attempted before. We take sedds and grow jungles.
+                  We love to shake established thought-patterns and create what has never been attempted before. We take sedds and grow jungles out of them. We are a team of passionate developers who are always ready to take on new challenges. We are here to help you with your software development needs.
                 </p>
               </div>
               <div className="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]">
